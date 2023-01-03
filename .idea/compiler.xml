@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="p4-sw8-pet-store-serenity-harshit-patel" />
+        <module name="p3-w18-serenity-petstore" />
+        <module name="p3-wk18--petstore" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

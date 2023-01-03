@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.petstore.testsuite.PetCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.789 sec - in com.petstore.testsuite.PetCRUDTest
